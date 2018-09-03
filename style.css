@@ -75,7 +75,6 @@ nav li:last-child {
 	display: inline;
 	float: left; 
 	overflow: auto; 
-
 	vertical-align: bottom; 
 }
 
@@ -84,9 +83,6 @@ nav li:last-child {
 	position: relative; 
 	left: 10px;
 	vertical-align: top; 
-	
- 
-
 }
 
 .Modules { 
