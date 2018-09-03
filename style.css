@@ -64,6 +64,31 @@ nav li:last-child {
     padding: 10px;
 }
 
+.adinkra {
+	margin: 10px auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.adinkra img {
+	display: inline;
+	float: left; 
+	overflow: auto; 
+
+	vertical-align: bottom; 
+}
+
+.adinkra p {
+	display: inline;
+	position: relative; 
+	left: 10px;
+	vertical-align: top; 
+	
+ 
+
+}
+
 .Modules { 
 	margin: 10px auto;
     width: 50%;
